@@ -1,5 +1,5 @@
 {
-  "name": "soul-craft",
+  "name": "nature-skills",
   "version": "1.0.0",
   "description": "A collection of Claude Code skills for building excellent AI agents, engineering workflows, and creative works. Born from real-world practice, refined with soul-writing methodology.",
   "keywords": [
@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anthropics/soul-craft.git"
+    "url": "git+https://github.com/natureblueee/Nature-skills-selfuse.git"
   },
   "files": [
     "skills/",
@@ -24,7 +24,7 @@
     "LICENSE"
   ],
   "bin": {
-    "soul-craft": "./install.sh"
+    "nature-skills": "./install.sh"
   },
   "scripts": {
     "install-skills": "bash install.sh"
