@@ -1,0 +1,32 @@
+{
+  "name": "soul-craft",
+  "version": "1.0.0",
+  "description": "A collection of Claude Code skills for building excellent AI agents, engineering workflows, and creative works. Born from real-world practice, refined with soul-writing methodology.",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "prompt-engineering",
+    "ai-agent",
+    "system-design",
+    "development-workflow",
+    "soul-writing"
+  ],
+  "author": "Nature <hi@natureblueee.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthropics/soul-craft.git"
+  },
+  "files": [
+    "skills/",
+    "install.sh",
+    "README.md",
+    "LICENSE"
+  ],
+  "bin": {
+    "soul-craft": "./install.sh"
+  },
+  "scripts": {
+    "install-skills": "bash install.sh"
+  }
+}
